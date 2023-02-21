@@ -75,7 +75,6 @@ footer {
 
 .button {
     display: block;
-    width: center;
     height: 10px;
     line-height: 10px;
     margin-top: 10px;
@@ -141,14 +140,13 @@ tr, td {
   table img {
     width: 100%;
   }
-
+}
   @media (min-width: 1024px) {
     #container{
         width: 65%;
         margin: 20px auto;
     }
-  }
-
+  
   #lower_area {
     display: flex;
   }
@@ -159,3 +157,4 @@ tr, td {
     margin: 10px;
     border-radius: 20px;
   }
+}
